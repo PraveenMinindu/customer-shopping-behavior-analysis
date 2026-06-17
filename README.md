@@ -126,7 +126,7 @@ Highlight top-rated products within marketing strategies.
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Customer_shopping_behaviors_analysis/images/Dashboard.png)
 
 ---
 
